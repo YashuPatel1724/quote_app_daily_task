@@ -91,5 +91,5 @@ Ans.->Methods for creating instances of the class.
   <img height="550"  src="https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/867831d9-56bf-4ce7-a3ef-3e12227a7f52" />
 </div>
 <div align="center">
-<a href="https://github.com/YashuPatel1724/Resume_Daily_Task/tree/master/lib/Login%20Page">-> 📂 Go To Dart File 📂 <-</a>
+<a href="https://github.com/YashuPatel1724/quote_app_daily_task/tree/master/lib">-> 📂 Go To Dart File 📂 <-</a>
 </div>
