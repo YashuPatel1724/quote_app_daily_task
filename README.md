@@ -73,4 +73,23 @@ void main()
 
 Ans.->Methods for creating instances of the class.
 
- 
+
+ <h1 align="center">👉 Random Quotes 👈</h1>
+
+<h3 align="center">Random Quotes Video </h3>
+<div align="center">
+ <video src="https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/35c4870e-ee39-4cb1-82be-bf29694b5547"> 
+</video>
+</div>
+
+<h3 align="center">1. Random Quotes </h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/a709c252-21d5-40d8-b14b-153447fbef48" />
+  <img height="550"  src="https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/867831d9-56bf-4ce7-a3ef-3e12227a7f52" />
+</div>
+<div align="center">
+<a href="https://github.com/YashuPatel1724/Resume_Daily_Task/tree/master/lib/Login%20Page">-> 📂 Go To Dart File 📂 <-</a>
+</div>
