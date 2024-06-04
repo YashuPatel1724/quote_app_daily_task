@@ -1,3 +1,5 @@
+
+https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/046efe22-6efe-429e-afde-98d39755f535
 <h1 align="center"> Factory Constructor & Modal Class </h1>
 
 # 1. Factory Constructor
@@ -93,3 +95,24 @@ Ans.->Methods for creating instances of the class.
 <div align="center">
 <a href="https://github.com/YashuPatel1724/quote_app_daily_task/tree/master/lib">-> 📂 Go To Dart File 📂 <-</a>
 </div>
+
+ <h1 align="center">👉 Toggle View 👈</h1>
+
+<h3 align="center">Toggle View Video </h3>
+<div align="center">
+ <video src="https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/c2f2d105-7126-43fb-a748-3b6800a91829"> 
+</video>
+</div>
+
+<h3 align="center">2. Toggle View </h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/cfb89d13-47e0-4e95-8814-132df0cd213e" />
+  <img height="550"  src="https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/01e004db-c530-4ac8-8578-81a1de53a554" />
+</div>
+<div align="center">
+<a href="https://github.com/YashuPatel1724/quote_app_daily_task/tree/master/lib">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
