@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:quote_app_daily_task/random%20quot/random.dart';
+import 'package:quote_app_daily_task/random%20quot/togal%20view/togal.dart';
 
 void main()
 {
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: QuotesRandom(),
+      home: TogalView()
     );
   }
 }
