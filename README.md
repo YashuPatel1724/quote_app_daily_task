@@ -113,6 +113,6 @@ Ans.->Methods for creating instances of the class.
   <img height="550"  src="https://github.com/YashuPatel1724/quote_app_daily_task/assets/148859965/01e004db-c530-4ac8-8578-81a1de53a554" />
 </div>
 <div align="center">
-<a href="https://github.com/YashuPatel1724/quote_app_daily_task/tree/master/lib">-> 📂 Go To Dart File 📂 <-</a>
+<a href="https://github.com/YashuPatel1724/quote_app_daily_task/tree/master/lib/random%20quot/togal%20view">-> 📂 Go To Dart File 📂 <-</a>
 </div>
 
